@@ -87,39 +87,39 @@
 
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* Slack */
-.button.button-slack {
+/* Github */
+.button.button-github {
   color: #FFFFFF;
   background-color: #343336 }
-.button.button-slack:hover,
-.button.button-slack:hover:before {
+.button.button-github:hover,
+.button.button-github:hover:before {
   content: 'Mis proyectos y otras boberias';
   white-space: initial; }
 
-/* Kit */
-.button.button-kit {
+/* LinkedIn */
+.button.button-linkedin {
   color: #FFFFFF;
   background-color: #04325e }
-.button.button-kit:hover,
-.button.button-kit:hover:before {
+.button.button-linkedin:hover,
+.button.button-linkedin:hover:before {
     content: 'Los colegas del gremio siempre presentes';
     white-space: initial; }
 
-/* YouTube */
-.button.button-youtube {
+/* Curriculum */
+.button.button-curriculum {
   color: #FFFFFF;
   background-color: #036303 }
-.button.button-youtube:hover,
-.button.button-youtube:hover:before {
+.button.button-curriculum:hover,
+.button.button-curriculum:hover:before {
     content: 'Descarga el PDF y enterate de mis "habilidades"';
     white-space: initial; }
 
-/* Mercha */
-.button.button-mercha {
+/* Telegram */
+.button.button-telegram {
   color: #faf5f5;
   background-color: #0088CC }
-.button.button-mercha:hover,
-.button.button-mercha:hover:before {
+.button.button-telegram:hover,
+.button.button-telegram:hover:before {
     content: 'Estamos en contacto todo el tiempo';
     white-space: initial; }
 
